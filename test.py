@@ -31,7 +31,7 @@ def tran():
     
 root = Tk()
 root.geometry('500x350')
-root.title('Переводчик')
+root.title('Переводчик_test')
 root.resizable(width=False, height=False)
 root['bg'] = 'blue'
 translator = Translator()
